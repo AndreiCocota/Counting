@@ -1,2 +1,0 @@
-# Counting
-Created with CodeSandbox
